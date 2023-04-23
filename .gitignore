@@ -70,6 +70,8 @@
 # Dependency directories
 vendor/
 
+#.json
+*package-lock.json
 
 ### Node ###
 # Logs
